@@ -1,0 +1,3 @@
+# modules/security/main.tf
+# Create Sentinel and security components here...
+# (Previous security-related resources from the original file)

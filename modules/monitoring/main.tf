@@ -1,0 +1,3 @@
+# modules/monitoring/main.tf
+# Create Log Analytics Workspace and monitoring components here...
+# (Previous monitoring-related resources from the original file)
