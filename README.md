@@ -1,4 +1,3 @@
-```markdown
 # Azure Detection Lab 🧪
 
 This repository contains Terraform configurations for setting up a security detection lab in Azure.
@@ -16,7 +15,6 @@ This repository contains Terraform configurations for setting up a security dete
    ```bash
    git clone https://github.com/your-username/azure-detection-lab.git
    cd azure-detection-lab
-   ```
 
 2. Copy the example variables file:
    ```bash
@@ -43,9 +41,10 @@ This repository contains Terraform configurations for setting up a security dete
 ## Features
 
 - Kali Linux VM for testing
-- Windows 10 Desktop VM
+- Windows Desktop VM
 - Azure Bastion (Developer SKU)
-- Microsoft Sentinel integration
+- Microsoft Sentinel
+- Log Analytics Workspace
 - Comprehensive logging
 - Network security groups
 - Key Vault integration
