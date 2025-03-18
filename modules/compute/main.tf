@@ -1,3 +1,0 @@
-# modules/compute/main.tf
-# Create public IPs, NICs, and VMs here...
-# (Previous VM-related resources from the original file)
