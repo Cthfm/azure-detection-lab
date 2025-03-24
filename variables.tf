@@ -9,7 +9,7 @@ variable "location" {
 
 variable "resource_prefix" {
   type        = string
-  default     = "sec-lab4"
+  default     = "sec-lab"
   description = "Prefix for all resources in Azure."
 }
 
